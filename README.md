@@ -1,4 +1,4 @@
-# 01 - ETEC
+# 02 - ETEC
 
 ### O que é esse repositório?
 
